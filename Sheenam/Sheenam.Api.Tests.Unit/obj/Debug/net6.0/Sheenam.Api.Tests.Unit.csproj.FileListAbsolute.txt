@@ -1,0 +1,6 @@
+C:\Users\dilmurod\Desktop\sheenam\Sheenam.Api.Tests.Unit\obj\Debug\net6.0\Sheenam.Api.Tests.Unit.csproj.AssemblyReference.cache
+C:\Users\dilmurod\Desktop\sheenam\Sheenam.Api.Tests.Unit\obj\Debug\net6.0\Sheenam.Api.Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\sheenam\Sheenam.Api.Tests.Unit\obj\Debug\net6.0\Sheenam.Api.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\sheenam\Sheenam.Api.Tests.Unit\obj\Debug\net6.0\Sheenam.Api.Tests.Unit.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\sheenam\Sheenam.Api.Tests.Unit\obj\Debug\net6.0\Sheenam.Api.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\sheenam\Sheenam.Api.Tests.Unit\obj\Debug\net6.0\Sheenam.Api.Tests.Unit.sourcelink.json
