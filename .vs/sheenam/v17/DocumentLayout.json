@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilmurod\\Desktop\\Sheenam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC852DB3-4460-49BE-A556-DA7AFC8A570C}|Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj|c:\\users\\dilmurod\\desktop\\sheenam\\sheenam.api.infrastructure.build\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC852DB3-4460-49BE-A556-DA7AFC8A570C}|Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj|solutionrelative:sheenam.api.infrastructure.build\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC852DB3-4460-49BE-A556-DA7AFC8A570C}|Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj|c:\\users\\dilmurod\\desktop\\sheenam\\sheenam.api.infrastructure.build\\sheenam.api.infrastructure.build.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC852DB3-4460-49BE-A556-DA7AFC8A570C}|Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj|solutionrelative:sheenam.api.infrastructure.build\\sheenam.api.infrastructure.build.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE62ECB-FA20-474B-AECF-F0CC89C3EEAA}|Sheenam.Api\\Sheenam.Api.csproj|c:\\users\\dilmurod\\desktop\\sheenam\\sheenam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE62ECB-FA20-474B-AECF-F0CC89C3EEAA}|Sheenam.Api\\Sheenam.Api.csproj|solutionrelative:sheenam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE62ECB-FA20-474B-AECF-F0CC89C3EEAA}|Sheenam.Api\\Sheenam.Api.csproj|c:\\users\\dilmurod\\desktop\\sheenam\\sheenam.api\\sheenam.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CE62ECB-FA20-474B-AECF-F0CC89C3EEAA}|Sheenam.Api\\Sheenam.Api.csproj|solutionrelative:sheenam.api\\sheenam.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\Sheenam\\Sheenam.Api.Infrastructure.Build\\Program.cs",
+              "RelativeDocumentMoniker": "Sheenam.Api.Infrastructure.Build\\Program.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\Sheenam\\Sheenam.Api.Infrastructure.Build\\Program.cs",
+              "RelativeToolTip": "Sheenam.Api.Infrastructure.Build\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:50:44.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sheenam.Api.Infrastructure.Build.csproj",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\sheenam\\Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj",
+              "RelativeDocumentMoniker": "Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\sheenam\\Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj",
+              "RelativeToolTip": "Sheenam.Api.Infrastructure.Build\\Sheenam.Api.Infrastructure.Build.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T11:52:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sheenam.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\sheenam\\Sheenam.Api\\Sheenam.Api.csproj",
+              "RelativeDocumentMoniker": "Sheenam.Api\\Sheenam.Api.csproj",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\sheenam\\Sheenam.Api\\Sheenam.Api.csproj",
+              "RelativeToolTip": "Sheenam.Api\\Sheenam.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T11:51:55.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\Sheenam\\Sheenam.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Sheenam.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\Sheenam\\Sheenam.Api\\Program.cs",
+              "RelativeToolTip": "Sheenam.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:48:33.326Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
